@@ -6,6 +6,9 @@ st.set_page_config(page_title="Document QA Chatbot")
 
 st.markdown("""
 # 🤖 DocuMind AI
+st.info(
+    "🚀 Upload any PDF document and get instant AI-powered answers using Groq Llama 3."
+)S
 
 ### Intelligent Document QA Assistant
 
