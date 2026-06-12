@@ -112,7 +112,7 @@ st.markdown(
 """
 <center>
 
-### 🎓 MCA Major Project
+###  MCA Major Project
 
 Developed by Supriya Udnoor
 
