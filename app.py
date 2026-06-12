@@ -16,7 +16,7 @@ font-weight:bold;
 text-align:center;
 margin-bottom:20px;
 ">
-🚀 Upload your PDF and get AI-powered answers instantly
+ Upload your PDF and get AI-powered answers instantly
 </div>
 """, unsafe_allow_html=True)
 
