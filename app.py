@@ -7,7 +7,7 @@ st.set_page_config(page_title="Document QA Chatbot")
 st.markdown("""
 # 🤖 DocuMind AI
 st.info(
-    "🚀 Upload any PDF document and get instant AI-powered answers using Groq Llama 3."
+    "Upload any PDF document and get instant AI-powered answers using Groq Llama 3."
 )S
 
 ### Intelligent Document QA Assistant
@@ -17,16 +17,16 @@ Upload your PDF and get instant AI-powered answers.
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.metric("📄 Documents", "Unlimited")
+    st.metric(" Documents", "Unlimited")
 
 with col2:
-    st.metric("⚡ AI Model", "Llama 3")
+    st.metric(" AI Model", "Llama 3")
 
 with col3:
-    st.metric("🔍 Search", "Semantic")
+    st.metric(" Search", "Semantic")
 
 with col4:
-    st.metric("🔒 Privacy", "Secure")
+    st.metric(" Privacy", "Secure")
 
 with st.sidebar:
 
@@ -39,12 +39,12 @@ with st.sidebar:
 
     st.markdown("---")
 
-    st.subheader("🚀 Features")
+    st.subheader(" Features")
 
-    st.write("✅ PDF Upload")
-    st.write("✅ AI Answers")
-    st.write("✅ Groq Llama 3")
-    st.write("✅ Fast Processing")
+    st.write(" PDF Upload")
+    st.write(" AI Answers")
+    st.write(" Groq Llama 3")
+    st.write(" Fast Processing")
 uploaded_file = st.file_uploader(
     "Upload PDF",
     type=["pdf"]
