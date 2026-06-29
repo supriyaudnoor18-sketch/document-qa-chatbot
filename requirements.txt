@@ -1,3 +1,14 @@
 streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+transformers
+torch
 pypdf
-groq
+Pillow
+pytesseract
