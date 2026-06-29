@@ -222,7 +222,7 @@ if question:
         else:
 
             answer = (
-                "Please upload a document and enter your Groq API Key."
+                "Please upload a document and enter your Groq API Key.."
             )
 
         st.markdown(answer)
