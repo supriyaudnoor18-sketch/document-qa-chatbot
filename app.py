@@ -126,8 +126,6 @@ st.markdown(
 """
 <center>
 
-###  MCA Major Project
-
 Developed by Supriya Udnoor
 
 Powered by Streamlit • Groq • Llama 3
